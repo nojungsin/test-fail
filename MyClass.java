@@ -5,4 +5,5 @@ public class MyClass {
         System.out.println(value);
         sdklfkdnlkw
     }
+    exit 1
 }
